@@ -4,3 +4,4 @@ This a file manager for Windows with two file windows and FTP and ZIP support.
 It is based on fast and reliable 64 bit code.
 It runs on x64/x86 and ARM64 processors.
 You can find more information at https://www.jmmgc.com/operationcenter/en.php
+(English) or https://www.jmmgc.com/operationcenter/ (German).
